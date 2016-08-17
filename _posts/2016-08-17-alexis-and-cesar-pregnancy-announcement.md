@@ -1,20 +1,20 @@
 ---
-description: ''
-dateModified: '2016-08-17T23:30:44.020Z'
-datePublished: '2016-08-17T23:30:56.172Z'
-title: Alexis & Cesar Pregnancy Announcement
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-17T23:58:45.444Z'
 sourcePath: _posts/2016-08-17-alexis-and-cesar-pregnancy-announcement.md
+author: []
+via: {}
+dateModified: '2016-08-17T23:58:44.849Z'
+title: Alexis & Ceasar’s Pregnancy Announcement
+publisher: {}
+description: ''
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-# Alexis & Cesar Pregnancy Announcement
+# Alexis & Ceasar's Pregnancy Announcement
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/821d3448-8889-4f72-8735-de069809ff89.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c697059-d9bc-43e8-8689-57e09e3619de.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfcfbad1-8582-4a34-bb31-f67e8e510af0.jpg)
