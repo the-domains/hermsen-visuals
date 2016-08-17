@@ -1,4 +1,3 @@
-layout_spectrum: 0.9884614998009056
 typography_spectrum: 0.813287838594988
 color:
   brandStrength: 0.6778428496327251
@@ -6,9 +5,15 @@ color:
   saturation: 0.18401069031096995
   rhythmicContrast: 0.816124907694757
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/1029a066-6d99-4193-82f0-94001d37c011.jpg
+layout_spectrum: 0.9884614998009056
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c1b1683-a82f-4185-9417-2280f817c65e.jpg
 name: Hermsen Visuals
