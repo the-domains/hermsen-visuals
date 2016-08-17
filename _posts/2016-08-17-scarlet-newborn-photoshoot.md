@@ -1,20 +1,20 @@
 ---
-description: ''
-dateModified: '2016-08-17T23:26:04.447Z'
-datePublished: '2016-08-17T23:30:57.234Z'
-title: Scarlet Newborn Photoshoot
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-17T23:59:11.298Z'
 sourcePath: _posts/2016-08-17-scarlet-newborn-photoshoot.md
+author: []
+via: {}
+dateModified: '2016-08-17T23:59:10.572Z'
+title: Scarlette’s Newborn Photoshoot
+publisher: {}
+description: ''
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-# Scarlet Newborn Photoshoot
+# Scarlette's Newborn Photoshoot
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecec6227-f43f-4e68-a92b-6db822094886.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48cc3c4d-1c2d-4578-ae20-e83150b90d40.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7e4dbf0-1c62-4a69-9506-09531d54495c.jpg)
