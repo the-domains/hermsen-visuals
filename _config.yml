@@ -18,20 +18,20 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c1b1683-a82f-4185-9417-2280f817c65e.jpg
 description: Redefining Media
 color:
-  saturation: 0.1840106903109699
-  brandStrength: 0.6778428496327251
-  lightness: 0.7003439059481025
+  brandStrength: 0.8224076447077096
+  lightness: 0.9617300238460302
+  saturation: 0.9602852156385779
+  rhythmicContrast: 0.1377216838300228
   brandColors:
-    - '#FFFFFF'
-    - '#ED351D'
-    - '#1CABED'
-    - '#21ED1C'
-    - '#1D26ED'
-  rhythmicContrast: 0.816124907694757
-typography_spectrum: 0.6278195
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+typography_spectrum: 0.13255235319957137
 navigation:
   - name: About Us
     id: 1d4d1f32-192d-4824-8c17-17c4e2f29be5
     type: content
-layout_spectrum: 1
+layout_spectrum: 0.6001607305370271
 name: Hermsen Visuals
