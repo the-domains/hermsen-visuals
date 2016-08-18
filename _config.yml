@@ -28,10 +28,10 @@ color:
     - '#374140'
     - '#2A2C2B'
     - '#1E1E20'
-typography_spectrum: 0.13255235319957137
+typography_spectrum: 0.6917535529937595
 navigation:
   - name: About Us
     id: 1d4d1f32-192d-4824-8c17-17c4e2f29be5
     type: content
-layout_spectrum: 0.6001607305370271
+layout_spectrum: 0.30281832232140005
 name: Hermsen Visuals
