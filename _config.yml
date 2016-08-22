@@ -1,3 +1,16 @@
+layout_spectrum: 0.0998975420370698
+typography_spectrum: 0.11012983624823391
+color:
+  brandStrength: 0.5394142377190292
+  lightness: 0.6548392528202385
+  saturation: 0.7501101712696254
+  rhythmicContrast: 0.6059616385027766
+  brandColors:
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
 title: Hermsen Visuals
 opengraph:
   image: >-
@@ -17,21 +30,8 @@ collections:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c1b1683-a82f-4185-9417-2280f817c65e.jpg
 description: Redefining Media
-color:
-  brandStrength: 0.9178801567759365
-  lightness: 0.416328439489007
-  saturation: 0.5165584334172308
-  rhythmicContrast: 0.6153583389241248
-  brandColors:
-    - '#E7E8D1'
-    - '#D3CEAA'
-    - '#FBF7E4'
-    - '#424242'
-    - '#8E001C'
-typography_spectrum: 0.3288322570733726
 navigation:
   - name: About Us
     id: 1d4d1f32-192d-4824-8c17-17c4e2f29be5
     type: content
-layout_spectrum: 0.6135537684895098
 name: Hermsen Visuals
