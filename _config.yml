@@ -14,6 +14,8 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/1029a066-6d99-4193-82f0-94001d37c011.jpg
 layout_spectrum: 0.0998975420370698
+analytics:
+  facebook: '1606499059648421'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c1b1683-a82f-4185-9417-2280f817c65e.jpg
 name: Hermsen Visuals
