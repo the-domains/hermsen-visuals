@@ -21,9 +21,6 @@ navigation:
   - name: About Us
     id: 1d4d1f32-192d-4824-8c17-17c4e2f29be5
     type: content
-  - name: Video Collection
-    url: 'https://vimeo.com/hermsenvisuals'
-    type: external
 collections:
   - index:
       path: /
