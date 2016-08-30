@@ -1,4 +1,3 @@
-layout_spectrum: 0.0998975420370698
 typography_spectrum: 0.11012983624823391
 color:
   brandStrength: 0.5394142377190292
@@ -11,10 +10,20 @@ color:
     - '#306E73'
     - '#3B424D'
     - '#1D181F'
-title: Hermsen Visuals
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/1029a066-6d99-4193-82f0-94001d37c011.jpg
+layout_spectrum: 0.0998975420370698
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c1b1683-a82f-4185-9417-2280f817c65e.jpg
+name: Hermsen Visuals
+navigation:
+  - name: About Us
+    id: 1d4d1f32-192d-4824-8c17-17c4e2f29be5
+    type: content
+  - name: Video Collection
+    url: 'https://vimeo.com/hermsenvisuals'
+    type: external
 collections:
   - index:
       path: /
@@ -27,11 +36,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c1b1683-a82f-4185-9417-2280f817c65e.jpg
+title: Hermsen Visuals
 description: Redefining Media
-navigation:
-  - name: About Us
-    id: 1d4d1f32-192d-4824-8c17-17c4e2f29be5
-    type: content
-name: Hermsen Visuals
