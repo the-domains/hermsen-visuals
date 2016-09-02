@@ -1,4 +1,3 @@
-layout_spectrum: 0.8048024266026914
 typography_spectrum: 0.47480104863643646
 color:
   brandStrength: 0.7298318475950509
@@ -14,6 +13,7 @@ color:
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/1029a066-6d99-4193-82f0-94001d37c011.jpg
+layout_spectrum: 0.8048024266026914
 analytics:
   facebook: '996555217122614'
 logo: >-
@@ -23,6 +23,9 @@ navigation:
   - name: About Us
     id: 1d4d1f32-192d-4824-8c17-17c4e2f29be5
     type: content
+  - name: Video Collection
+    url: 'https://vimeo.com/hermsenvisuals'
+    type: external
 collections:
   - index:
       path: /
